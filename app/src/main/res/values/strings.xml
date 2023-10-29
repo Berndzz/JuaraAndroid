@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Sewing App</string>
+    <string name="app_topBar">30 Day of Sewing Idea</string>
+    <string name="day_1_title">Membuat Pakaian Renang</string>
+    <string name="day_1_description">Cobalah menjahit pakaian renang yang sesuai dengan gaya Anda.</string>
+
+    <string name="day_2_title">Menjahit Tas Ransel</string>
+    <string name="day_2_description">Buat tas ransel dengan teknik menjahit yang kreatif.</string>
+
+    <string name="day_3_title">Menghias Kain</string>
+    <string name="day_3_description">Pelajari cara menghias kain dengan sulaman dan payet.</string>
+
+    <string name="day_4_title">Membuat Kostum Anak-anak</string>
+    <string name="day_4_description">Ciptakan kostum lucu untuk anak-anak dengan keahlian menjahit Anda.</string>
+
+    <string name="day_5_title">Merancang Pakaian Sendiri</string>
+    <string name="day_5_description">Mulailah merancang pakaian Anda sendiri dan menjahitnya.</string>
+
+    <string name="day_6_title">Menjahit Baju Tidur</string>
+    <string name="day_6_description">Cobalah menjahit baju tidur yang nyaman dan cantik.</string>
+
+    <string name="day_7_title">Mengenal Pola Jahitan</string>
+    <string name="day_7_description">Pelajari cara membaca dan menggunakan pola jahitan dengan benar.</string>
+
+    <string name="day_8_title">Membuat Kain Lap</string>
+    <string name="day_8_description">Jahit kain lap yang praktis untuk rumah Anda.</string>
+
+    <string name="day_9_title">Mengganti Resleting yang Rusak</string>
+    <string name="day_9_description">Pahami cara mengganti resleting yang rusak pada pakaian Anda.</string>
+
+    <string name="day_10_title">Menjahit Baju untuk Hewan Peliharaan</string>
+    <string name="day_10_description">Buatkan pakaian lucu untuk hewan peliharaan Anda.</string>
+
+    <string name="day_11_title">Mengenal Jenis Kain</string>
+    <string name="day_11_description">Pelajari berbagai jenis kain dan kapan harus menggunakannya.</string>
+
+    <string name="day_12_title">Mengubah Pakaian Lama Menjadi Trendi</string>
+    <string name="day_12_description">Kreatif dengan mengubah pakaian lama menjadi pakaian yang trendi.</string>
+
+    <string name="day_13_title">Menghias Dengan Aplikasi Jahitan</string>
+    <string name="day_13_description">Cobalah teknik menghias dengan aplikasi jahitan pada pakaian Anda.</string>
+
+    <string name="day_14_title">Membuat Masker Wajah Jahit Sendiri</string>
+    <string name="day_14_description">Buat masker wajah yang nyaman dengan menjahitnya sendiri.</string>
+
+    <string name="day_15_title">Mengenal Alat Jahit Lanjutan</string>
+    <string name="day_15_description">Pelajari penggunaan alat jahit lanjutan seperti overlock dan coverstitch.</string>
+
+    <string name="day_16_title">Membuat Selimut Rajut</string>
+    <string name="day_16_description">Buat selimut yang hangat dengan teknik rajut yang indah.</string>
+
+    <string name="day_17_title">Menjahit Baju Kulit</string>
+    <string name="day_17_description">Pahami teknik menjahit baju kulit dengan mesin jahit Anda.</string>
+
+    <string name="day_18_title">Membuat Topi Buatan Sendiri</string>
+    <string name="day_18_description">Cobalah membuat topi dengan gaya Anda sendiri.</string>
+
+    <string name="day_19_title">Mengenal Jahitan Tepi</string>
+    <string name="day_19_description">Pelajari cara menjahit tepi yang rapi untuk proyek Anda.</string>
+
+    <string name="day_20_title">Menjahit Sarung Bantal</string>
+    <string name="day_20_description">Buat sarung bantal yang sesuai dengan dekorasi rumah Anda.</string>
+
+    <string name="day_21_title">Mengenal Jenis Jahitan Tangan</string>
+    <string name="day_21_description">Pelajari berbagai jenis jahitan tangan yang berguna.</string>
+
+    <string name="day_22_title">Membuat Tas Pinggang</string>
+    <string name="day_22_description">Buat tas pinggang yang praktis dengan pola Anda sendiri.</string>
+
+    <string name="day_23_title">Menjahit Pakaian Dalam</string>
+    <string name="day_23_description">Cobalah menjahit pakaian dalam yang nyaman dan modis.</string>
+
+    <string name="day_24_title">Mengenal Jahitan Quilting</string>
+    <string name="day_24_description">Pelajari seni menjahit quilting untuk proyek yang artistik.</string>
+
+    <string name="day_25_title">Membuat Masker Jahit untuk Perlindungan</string>
+    <string name="day_25_description">Buat masker kain dengan pola jahit untuk perlindungan tambahan.</string>
+
+    <string name="day_26_title">Mengenal Jahitan Batik</string>
+    <string name="day_26_description">Pelajari teknik menjahit batik yang tradisional.</string>
+
+    <string name="day_27_title">Membuat Baju Anak-anak</string>
+    <string name="day_27_description">Buat pakaian anak-anak yang lucu dan nyaman.</string>
+
+    <string name="day_28_title">Menjahit Kerudung</string>
+    <string name="day_28_description">Cobalah menjahit kerudung yang cantik sesuai dengan selera Anda.</string>
+
+    <string name="day_29_title">Mengenal Jahitan Payet</string>
+    <string name="day_29_description">Pelajari teknik menjahit dengan payet untuk tampilan berkilau.</string>
+
+    <string name="day_30_title">Menghasilkan Karya Jahitan Anda</string>
+    <string name="day_30_description">Selamat! Hari terakhir, nikmati hasil karya jahitan Anda dan terus mengembangkan keterampilan Anda.</string>
+
+
+</resources>
