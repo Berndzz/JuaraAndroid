@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Coc Gift</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_list">List</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="menu_profile">Profile</string>
+    <string name="price">Rp %d K</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </string>
+    <string name="add_to_cart">Tambah ke Keranjang : %d K</string>
+    <string name="total_order">Total pesanan : %d K</string>
+    <string name="back">Back</string>
+    <string name="coc_gift">Coc Gift Statue</string>
+    <string name="share_message">Hallo, anda telah memesan %1$d item di Coc Gift Statue dengan total  %2$d K, Kami tunggu pembayaran-nya yah.</string>
+    <string name="my_name">Hardus Tukan</string>
+    <string name="my_email">tukanbernad@gmail.com</string>
+    <string name="coc_title_home">Clash Of Clans Gift Statue</string>
+</resources>
